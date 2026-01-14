@@ -19,8 +19,7 @@ A simple and intuitive **Finance Tracker** web application that helps users mana
 
 - **HTML** – Structure of the application  
 - **CSS** – Styling and layout  
-- **JavaScript** – Logic and DOM manipulation  
-- **Local Storage** – Persistent data storage  
+- **JavaScript** – Logic and DOM manipulation   
 
 ---
 
