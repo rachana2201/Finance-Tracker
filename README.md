@@ -23,16 +23,7 @@ A simple and intuitive **Finance Tracker** web application that helps users mana
 
 ---
 
-## 📂 Project Structure
 
-Finance-Tracker/
-│
-├── expensetracker.html
-├── expensetrackers.css
-├── trackerscript.js
-└── README.md
-
----
 
 ## 🚀 How to Run the Project
 
